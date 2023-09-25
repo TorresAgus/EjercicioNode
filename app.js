@@ -83,7 +83,7 @@ function borrarContacto(id){
     console.log("Contactos ahora: ", telefonos);
 }
 
-//borrarContacto(2);
+borrarContacto(2);
 
 //2.8) Modificar el nombre de un registro según el id pasado por parámetro.
 function modificarContactoPorId(id, nombre){
