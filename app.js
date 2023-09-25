@@ -95,7 +95,7 @@ function modificarContactoPorId(id, nombre){
     console.log(telefonos);
 }
 
-//modificarContactoPorId(2, "Ada");
+modificarContactoPorId(2, "Ada");
 
 //2.9) Modificar el nombre y número de un registro según el id pasado junto con todos los datos.
 function modificarContactoPorId2(id, datos){
@@ -105,4 +105,4 @@ function modificarContactoPorId2(id, datos){
     console.log(telefonos);
 }
 
-modificarContactoPorId2(2, {nombre: "Agustín", numero: "2424242424"});
+//modificarContactoPorId2(2, {nombre: "Agustín", numero: "2424242424"});
