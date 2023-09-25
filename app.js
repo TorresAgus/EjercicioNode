@@ -75,7 +75,7 @@ function contactosCon3(){
     console.log("Contactos ahora: ", telefonos);
 }
 
-//contactosCon3();
+contactosCon3();
 
 //2.7) Borrar un registro según el id.
 function borrarContacto(id){
